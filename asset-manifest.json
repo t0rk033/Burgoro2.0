@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e12f9620.css",
+    "main.js": "/static/js/main.eacd19d9.js",
+    "static/media/backgroud-section1.jpg": "/static/media/backgroud-section1.jpg",
+    "static/media/fundador.jpg": "/static/media/fundador.jpg",
+    "static/media/background-chef-words.jpg": "/static/media/background-chef-words.jpg",
+    "static/media/burger1.jpg": "/static/media/burger1.jpg",
+    "static/media/burger2.jpg": "/static/media/burger2.jpg",
+    "static/media/coFounder1.jpg": "/static/media/coFounder1.jpg",
+    "static/media/coFounder2.jpg": "/static/media/coFounder2.jpg",
+    "index.html": "/index.html",
+    "main.e12f9620.css.map": "/static/css/main.e12f9620.css.map",
+    "main.eacd19d9.js.map": "/static/js/main.eacd19d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12f9620.css",
+    "static/js/main.eacd19d9.js"
+  ]
+}
